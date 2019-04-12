@@ -1,0 +1,1 @@
+This is a place to put code snippits that I have worked on or explored
