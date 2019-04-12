@@ -6,7 +6,7 @@ using namespace std;
 int main(int argc, char *argv[]){
 
 	pid_t pid;
-	printf("This is really the beggining\n");
+	printf("This is the beggining\n");
 	pid = fork();
 
 	if(pid == 0)
