@@ -4,7 +4,7 @@ int main(int argc,char *argv[])
 {
 	printf("F-STAR PROGRAM\n");
 
-	for(int i = 0; i < 6; i++)
+	for(int i = 0; i < 7; i++)
 	{
 		if(i == 0)
 		{
