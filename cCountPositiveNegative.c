@@ -1,4 +1,4 @@
-// Program: cCountEvenOdd.c
+// Program: cCountPositiveNegative.c
 // Write a C program that asks the user for 5 numbers and keeps
 // track of how many positive and negative numbers are entered. 
 #include <stdio.h>
