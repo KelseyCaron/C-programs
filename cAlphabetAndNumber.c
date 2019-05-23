@@ -5,10 +5,10 @@
 int main(int argc,char *argv[])
 {
 	printf("-----Alphabet & Number---\n");
-	for(int i = 65; i < 90; i++)
+	for(int i = 65; i <= 90; i++)
 	{
 		printf("%10c %9d\n",i,i);
-		printf("%10c %9d\n",i+33,i+33);
+		printf("%10c %9d\n",i+32,i+32);
 	}
 	
 	return 0;
