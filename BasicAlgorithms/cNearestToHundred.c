@@ -44,7 +44,7 @@ int CheckIntegers(int x,int y)
 
 	tempY = y - 100;
 
-	if(y < 0)
+	if(tempY < 0)
 	{
 		tempY = tempY * -1;
 	}
