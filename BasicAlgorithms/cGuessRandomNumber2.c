@@ -136,11 +136,11 @@ void Game(int attempts,int max,int min,int randomNumber)
 		}
 		else if(guess < randomNumber)
 		{
-			printf("%d is too low\n",guess);
+			printf("%d is too low\n\n",guess);
 		}
 		else if(guess > randomNumber)
 		{
-			printf("%d is too high\n",guess);
+			printf("%d is too high\n\n",guess);
 		}
 		
 	}
